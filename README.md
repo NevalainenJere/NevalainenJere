@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hei, olen Jere Nevalainen. Opiskelen Jyväskylän Gradiassa ohjelmistokehitystä.
+
+## Ohjelmointikielet:
+## C# (ensisijainen)
+## Python (toissijainen)
 
 <!--
 **NevalainenJere/NevalainenJere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
