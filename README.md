@@ -1,4 +1,4 @@
-Hei, olen Jere Nevalainen. Opiskelen Jyväskylän Gradiassa ohjelmistokehitystä.
+<b>Hei, olen Jere Nevalainen. Opiskelen Jyväskylän Gradiassa ohjelmistokehitystä.</b>
 ## Omat tiedot:
 - Syntymävuosi: 2000
 - Sähköposti: jere.nevalainen@windowslive.com
