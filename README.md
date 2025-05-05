@@ -1,8 +1,8 @@
 Hei, olen Jere Nevalainen. Opiskelen Jyväskylän Gradiassa ohjelmistokehitystä.
-##Omat tiedot:
+## Omat tiedot:
 - Syntymävuosi: 2000
 - Sähköposti: jere.nevalainen@windowslive.com
-##Ohjelmointikielet:
+## Ohjelmointikielet:
 - C# (ensisijainen)
 - Python (toissijainen)
 
